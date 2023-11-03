@@ -1,4 +1,4 @@
-MainPath = 'G:\\My Drive'
+MainPath = 'G:\\My Drive\\Investment'
 OldMainPath = "C:\\Users\\hyacinthe\\Desktop"
 
 OrderBookPath = MainPath + '\\databases\\OrderBook.csv'
