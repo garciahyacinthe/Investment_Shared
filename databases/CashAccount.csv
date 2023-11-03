@@ -1,0 +1,73 @@
+unique_indicator,type,asset,cad,usd,fx_rate,fees_cad,fees_usd,from_account,to_account,date
+internal_transfer-Fqpa09iVSMb2HUO0mpN7lmOrESs,internal_transfer,currency,1628.0,1183.26,0.726818,24.42,17.7489,Compte_CAD_WS,Compte_USD_WS,2023-08-16
+funding_intent-tu5POP8zXAO8EZijZvqWVvXkgxW,funding_intent,currency,1500.0,0.0,1.0,0.0,0.0,Compte_CAD_RBC,Compte_CAD_WS,2023-08-16
+internal_transfer-bSy978zFf9wk4mm1nFMfXSQrtU,internal_transfer,currency,1000.0,735.78,0.735782,15.0,11.0367,Compte_CAD_WS,Compte_USD_WS,2023-07-30
+funding_intent-myLQA9hXO5nbY5XVmeB8dqHZb0X,funding_intent,currency,1000.0,0.0,1.0,0.0,0.0,Compte_CAD_RBC,Compte_CAD_WS,2023-07-28
+order-b062f9b5-9b9b-487a-bd74-cf612d55c3ae,order,BTC iShares 1-3 Year Treasury Bond ETF,871.2,0.0,1.34329,13.068,0.0,Compte_CAD_WS,,2023-07-27
+funding_intent-bLVI1LKmd0E0LL7nRSa3BCuDpAs,funding_intent,currency,1000.0,0.0,1.0,0.0,0.0,Compte_CAD_RBC,Compte_CAD_WS,2023-07-25
+order-63c9fada-03f1-4785-93e4-dafb141fc98b,order,Proshares Trust Ii - Ultra Bloomberg 2017,0.0,1152.92,1.0,0.0,0.0,Compte_USD_WS,,2023-08-16
+custodian_account_activity-FB_BT3TTYfw4l4E3bWxA1dAKMIA,custodian_account_activity,currency,0.0,1.69,1.0,0.0,0.0,Custodian,Compte_USD_WS,2023-08-09
+order-cf6e0050-c29e-43be-90c2-52c6947b359f,order,ProShares Short S&P500,0.0,676.5,1.0,0.0,0.0,Compte_USD_WS,,2023-07-31
+order-16a9c444-79d9-4565-b6c4-bb4731eab5ed,order,ProShares Short S&P500,0.0,710.0,1.0,0.0,0.0,Compte_USD_WS,,2023-08-17
+payment-LwxHrHYcJAA57AVxTRh0LNXcWjX,payment,currency,10,0,1,0,0,Compte_CAD_WS,,2023-09-30
+internal_transfer-6hQmJR2yBQhBWqdvEqMs1jUtjiM,internal_transfer,currency,-450.0,326.28,0.725062,-6.75,4.8942,Compte_CAD_WS,Compte_USD_WS,2023-08-31
+payment-YupKuL2tzp5dMNdJsIHibVkhNVt,payment,currency,10,0,1,0,0,Compte_CAD_WS,,2023-08-30
+funding_intent-d65Dw8JXBleHjbKw1MYlXsvnID9,funding_intent,currency,500,0,1,0,0,Compte_CAD_RBC,Compte_CAD_WS,2023-08-29
+order-5d2fba6d-1f29-4756-8322-01bdcc9ad988,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3003.05,1,0,0,Compte_USD_WS,,2023-09-29
+order-1e1313dd-0ea7-4845-bf84-554200ce9af3,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3004.04,1,0,0,Compte_USD_WS,,2023-09-29
+order-6b1e1563-5d06-4c60-88b3-2ac2b74080f6,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3085.5,1,0,0,Compte_USD_WS,,2023-09-28
+order-fa6d85eb-7b34-4149-9913-61c37a7aac36,order,ProShares UltraShort Bloomberg Crude Oil,0,3046.68,1,0,0,Compte_USD_WS,,2023-09-28
+order-c2edf3b8-5fd4-4885-a522-fb7798723073,order,ProShares UltraShort Bloomberg Crude Oil,0,-3041.1,1,0,0,Compte_USD_WS,,2023-09-28
+order-5ea6896f-2922-4f98-91e3-cb9db6ae3a61,order,ProShares UltraShort Bloomberg Crude Oil,0,3003.9,1,0,0,Compte_USD_WS,,2023-09-27
+order-ea2920d5-2cd9-4d9c-97c8-9e09626fe88e,order,ProShares UltraShort Bloomberg Crude Oil,0,-3003.9,1,0,0,Compte_USD_WS,,2023-09-27
+order-2e19d9e4-4e1b-47b9-aba8-a8bb251bba11,order,ProShares UltraShort Bloomberg Crude Oil,0,2998.85,1,0,0,Compte_USD_WS,,2023-09-27
+order-d2ead80a-6f6a-42fb-8e50-6390a126e08b,order,ProShares UltraShort Bloomberg Crude Oil,0,-2998.63,1,0,0,Compte_USD_WS,,2023-09-27
+order-273d30ab-5acb-459b-8432-87e5ce2c56c3,order,ProShares Ultra S&P500,0,2918.94,1,0,0,Compte_USD_WS,,2023-09-27
+order-c7ad2aa5-3eb5-4c97-9420-2043c3981d42,order,ProShares Ultra S&P500,0,-2933.15,1,0,0,Compte_USD_WS,,2023-09-27
+order-46b26c57-51fa-427f-8fb8-a48621ec0cf5,order,ProShares Ultra S&P500,0,3067.05,1,0,0,Compte_USD_WS,,2023-09-26
+order-eaa07753-b8f3-4346-bba7-0d50dbe995cd,order,ProShares Ultra S&P500,0,-3130.83,1,0,0,Compte_USD_WS,,2023-09-26
+order-64b27e0e-02fa-45c8-986d-a8f5e65c5b3a,order,ProShares Ultra S&P500,0,3112.2,1,0,0,Compte_USD_WS,,2023-09-25
+order-a8c68fe2-32cd-40a0-8550-4b11daf4e08a,order,ProShares Ultra S&P500,0,-3100.8,1,0,0,Compte_USD_WS,,2023-09-22
+order-2d453ce1-92f8-42de-b2db-59f1be6fb260,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3080.47,1,0,0,Compte_USD_WS,,2023-09-21
+order-c718cb70-5987-4564-851a-004635070df5,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3043,1,0,0,Compte_USD_WS,,2023-09-20
+order-61b0ea13-6ac6-4f69-a356-4abce7fe4165,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3094,1,0,0,Compte_USD_WS,,2023-09-19
+order-ac8462ed-03ca-4efc-96d7-dfefa72a2c41,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3128,1,0,0,Compte_USD_WS,,2023-09-19
+order-7d3296a3-2a20-40c5-bbc2-c5b50d26a5e8,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3117.5,1,0,0,Compte_USD_WS,,2023-09-18
+order-90219da7-aabf-414b-adcc-1fe3e47339ef,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3117.34,1,0,0,Compte_USD_WS,,2023-09-18
+order-38c51c06-905a-4436-bd81-401ece0cbb96,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3128,1,0,0,Compte_USD_WS,,2023-09-18
+order-ff7dd7aa-81fa-4af2-b7de-7cb74e4e0c00,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3105.82,1,0,0,Compte_USD_WS,,2023-09-18
+order-6cae53bb-f3d2-45ee-8f59-fcda123f2c5f,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3102.5,1,0,0,Compte_USD_WS,,2023-09-15
+order-a0928d24-b145-4d91-b413-f32fb2c54bbc,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3077,1,0,0,Compte_USD_WS,,2023-09-15
+order-eaa92b03-9590-43c2-99a1-4848640bafb8,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3066,1,0,0,Compte_USD_WS,,2023-09-15
+order-8634b2d1-cf00-4fa9-92fe-3975f6320aa7,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-3040.8,1,0,0,Compte_USD_WS,,2023-09-15
+order-d5c626f4-485f-46ad-9027-d1ab4c0f1038,order,ProShares UltraShort Bloomberg Crude Oil,0,3047.4,1,0,0,Compte_USD_WS,,2023-09-13
+order-c40e4590-c3a0-4914-99b3-59db451cfb3b,order,ProShares UltraShort Bloomberg Crude Oil,0,-3015,1,0,0,Compte_USD_WS,,2023-09-13
+order-cffbe7ce-dc75-47aa-b476-f3ec48cd25ca,order,ProShares UltraShort Bloomberg Crude Oil,0,3000.6,1,0,0,Compte_USD_WS,,2023-09-12
+order-67fd7d1b-b6ab-4a12-bc2b-170810cccea5,order,ProShares UltraShort Bloomberg Crude Oil,0,-3007.8,1,0,0,Compte_USD_WS,,2023-09-12
+order-a3e46650-fa1f-4509-98a0-c905a88f8a7c,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,3023.25,1,0,0,Compte_USD_WS,,2023-09-08
+order-50c3a948-57f8-4250-bc44-f4b025eee5d7,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-2997.15,1,0,0,Compte_USD_WS,,2023-09-08
+order-7d65101a-185d-4429-8d89-54b988872c9c,order,ProShares UltraShort Bloomberg Crude Oil,0,2949.5,1,0,0,Compte_USD_WS,,2023-09-07
+order-dd9754d9-a8e5-48be-8591-5e07f0023622,order,ProShares UltraShort Bloomberg Crude Oil,0,-2941,1,0,0,Compte_USD_WS,,2023-09-07
+order-52323df5-3137-4d1d-a56b-c4440f9c7794,order,ProShares UltraShort Bloomberg Crude Oil,0,2871,1,0,0,Compte_USD_WS,,2023-09-07
+order-34cd58e6-371d-4abb-a997-c2fbf92a3ef1,order,ProShares UltraShort Bloomberg Crude Oil,0,-2847.9,1,0,0,Compte_USD_WS,,2023-09-07
+order-32bd6294-9c41-4342-9488-13c61effbe31,order,ProShares UltraShort Bloomberg Crude Oil,0,2744,1,0,0,Compte_USD_WS,,2023-09-06
+order-2771f117-0532-4a41-b166-bde1539309a0,order,ProShares UltraShort Bloomberg Crude Oil,0,-2748.8,1,0,0,Compte_USD_WS,,2023-09-06
+order-24bc25c7-c1a6-4995-96fd-eea9e4b8e460,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,2755.76,1,0,0,Compte_USD_WS,,2023-09-06
+order-5e028e5b-c417-4f72-951e-3a13262dcdb9,order,,0,190,1,0,0,Compte_USD_WS,,2023-09-06
+order-931078fd-a7be-4e4c-b2ec-d96069a7cb92,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-2744,1,0,0,Compte_USD_WS,,2023-09-06
+order-b595f97e-98cc-4cfc-a2fb-8c42257f93ff,order,,0,-150,1,0,0,Compte_USD_WS,,2023-09-06
+order-194abad9-c6b3-40c6-a699-d75b485b947a,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-34.1,1,0,0,Compte_USD_WS,,2023-09-06
+order-25a9fe8d-2e01-4df7-a6d1-784a7cbaa811,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,2892.68,1,0,0,Compte_USD_WS,,2023-09-05
+order-0e759d44-75e7-441d-ae6a-6c4984829592,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-2907,1,0,0,Compte_USD_WS,,2023-09-05
+order-9fa20e2a-a79d-4d1e-b939-d2ccaa931d4f,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,2934.2,1,0,0,Compte_USD_WS,,2023-09-05
+order-32f562eb-dea8-4a01-8e28-8ddbb4f60420,order,Proshares Trust Ii - Ultra Bloomberg 2017,0,-2907,1,0,0,Compte_USD_WS,,2023-09-05
+order-56673da6-45f0-4ee8-9db9-bab4d63b4d91,order,ProShares UltraShort Bloomberg Crude Oil,0,2938.65,1,0,0,Compte_USD_WS,,2023-09-01
+order-c7d4f712-9d22-4838-ba62-5a495a26aa80,order,ProShares UltraShort Bloomberg Crude Oil,0,-2978.25,1,0,0,Compte_USD_WS,,2023-09-01
+order-b7be134e-08ef-414b-a16b-23d03261c18a,order,ProShares UltraShort Bloomberg Crude Oil,0,2985.13,1,0,0,Compte_USD_WS,,2023-09-01
+order-cef45240-2b05-49ef-baea-c204ec4e9ff3,order,ProShares UltraShort Bloomberg Crude Oil,0,-2978.25,1,0,0,Compte_USD_WS,,2023-09-01
+order-9f8f8ded-ec9d-4510-b363-645697638d5e,order,ProShares UltraShort Bloomberg Crude Oil,0,2808.32,1,0,0,Compte_USD_WS,,2023-08-31
+order-f4c79d1f-22e0-4834-9b8b-0db0451d7c31,order,ProShares UltraShort Bloomberg Crude Oil,0,-2805,1,0,0,Compte_USD_WS,,2023-08-31
+order-2eaf073a-d499-4eea-b7ed-8a38c2055f57,order,ProShares UltraShort Bloomberg Crude Oil,0,2872.5,1,0,0,Compte_USD_WS,,2023-08-31
+order-f97a03f1-2753-49c9-8773-b200d3b836e2,order,ProShares UltraShort Bloomberg Crude Oil,0,-2835,1,0,0,Compte_USD_WS,,2023-08-31
+order-83bf1aea-abdb-44d2-8e2a-d1510aaf10c5,order,ProShares UltraShort Bloomberg Crude Oil,0,2391.8,1,0,0,Compte_USD_WS,,2023-08-25
+order-9925123e-7e35-4b4f-9016-80d9a110a7a0,order,ProShares UltraShort Bloomberg Crude Oil,0,-2388,1,0,0,Compte_USD_WS,,2023-08-25

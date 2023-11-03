@@ -1,0 +1,5 @@
+ticker,security_name_ws,security_id_ws,security_type_ws,currency_ws,currency_yf,active_since_ws,inactive_since_ws,security_name_yf,security_id_yf,security_type_yf,YahooFinance,WealthSimple
+^BCBCLI,,,,,USD,,,Bloomberg Commodity Balanced WT,9992dfe8-dbd9-3ef8-9e92-f8696734f90b,INDEX,True,False
+UCO,Proshares Trust Ii - Ultra Bloomberg 2017,sec-s-c6b16e7decde43cea2deeac467470cc4,exchange_traded_fund,USD,USD,4/21/2020,,ProShares Ultra Bloomberg Crude Oil,4eeb81ce-bb76-3024-a85d-734941538a22,ETF,True,True
+SCO,ProShares UltraShort Bloomberg Crude Oil,sec-s-196a05164bad4499b58d7514e70cac89,exchange_traded_fund,USD,USD,5/26/2022,,ProShares UltraShort Bloomberg Crude Oil,390e65f5-b814-380d-92b1-dac611f7d014,ETF,True,True
+SH,ProShares Short S&P500,sec-s-30c0a70434a7402db53b79a72688ef52,exchange_traded_fund,USD,USD,2008-11-12,,ProShares Short S&P500,ec5704f0-d569-35d1-a5b8-f9a2384a2b4b,ETF,True,True
